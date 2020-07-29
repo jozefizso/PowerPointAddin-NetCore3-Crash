@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerPointAddin", "src\PowerPointAddin.csproj", "{43983ED6-22B1-43B0-936B-3212934FA5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43983ED6-22B1-43B0-936B-3212934FA5EB}.Debug|x86.ActiveCfg = Debug|x86
+		{43983ED6-22B1-43B0-936B-3212934FA5EB}.Debug|x86.Build.0 = Debug|x86
+		{43983ED6-22B1-43B0-936B-3212934FA5EB}.Release|x86.ActiveCfg = Release|x86
+		{43983ED6-22B1-43B0-936B-3212934FA5EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3A873E-D625-42AF-9626-DC33B9920D72}
+	EndGlobalSection
+EndGlobal
